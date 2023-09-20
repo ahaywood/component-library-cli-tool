@@ -1,6 +1,6 @@
 This is a test / proof of concept to determine what the code would be dynamically download files from a specific GitHub repo.
 
-- I was trying to determine whether I could build of this to create something similar to [ShadCN UI Components CLI](https://ui.shadcn.com/docs/cli)
+- I was trying to determine whether I could build something similar to [ShadCN UI Components CLI](https://ui.shadcn.com/docs/cli)
 
 ## Usage
 
